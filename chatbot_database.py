@@ -1,5 +1,5 @@
 import sqlite3
-import json # used to load the lines from data
+import json
 from datetime import datetime # used to log
 
 # to build a big transaction to commit all rows at once instead of one at a time
